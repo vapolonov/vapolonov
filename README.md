@@ -1,10 +1,10 @@
 ### Hi there 👋
-
+<!--
 
 ![](https://github.com/vapolonov/vapolonov/blob/main/vasvap_java-logo.svg)
 ![](https://github.com/vapolonov/vapolonov/blob/main/vasvap_IDEA-logo.svg)
 
-<!--
+
 **vapolonov/vapolonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

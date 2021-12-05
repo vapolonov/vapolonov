@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi 👋, I'm Vasiliy Apolonov. Welcome to my GitHub.
 
+### My Tech Stack:
 ![Alt-Java](https://github.com/vapolonov/vapolonov/blob/main/vasvap_java_logo.png)&nbsp;&nbsp;
 ![IntelliJ IDEA](https://github.com/vapolonov/vapolonov/blob/main/vasvap_idea_logo.png)&nbsp;&nbsp;
 ![SelenideJ IDEA](https://github.com/vapolonov/vapolonov/blob/main/vasvap_selenide_logo.png)&nbsp;&nbsp;

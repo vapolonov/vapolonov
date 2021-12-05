@@ -1,11 +1,11 @@
 ## Hi ✨, I'm Vasiliy Apolonov. Welcome to my GitHub.:shield:
 <br>
 
-- I’m having a 10+ years of experience in information technology industry.
+:arrow_right: I’m having a 10+ years of experience in information technology industry.
 
-- Currently I'm interesting test automation and starting to apply automation in my work.
+:arrow_right: Currently I'm interesting test automation and starting to apply automation in my work.
 
-- I’m studying the course "QA Automation" from **QA.GURU school**.
+:arrow_right: I’m studying the course "QA Automation" from **QA.GURU school**.
 
 <br>
 

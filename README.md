@@ -5,7 +5,7 @@
 
 :arrow_right: Currently I'm interesting test automation and starting to apply automation in my work.
 
-:arrow_right: I’m studying the course "QA Automation" from **QA.GURU school**.
+:arrow_right: I’m studying at the course "QA Automation" from **QA.GURU school**.
 
 <br>
 

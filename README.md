@@ -1,10 +1,16 @@
 ### Hi there 👋
+
+![Java](https://github.com/vapolonov/vapolonov/blob/main/vasvap_java_logo.png)
+![IntelliJ IDEA](https://github.com/vapolonov/vapolonov/blob/main/vasvap_idea_logo.png)
+![SelenideJ IDEA](https://github.com/vapolonov/vapolonov/blob/main/vasvap_selenide_logo.png)
+![Allure Reports](https://github.com/vapolonov/vapolonov/blob/main/vasvap_allure_logo.png)
+![GitHub](https://github.com/vapolonov/vapolonov/blob/main/vasvap_github_logo.png)
+![Jenkins](https://github.com/vapolonov/vapolonov/blob/main/vasvap_jenkins_logo.png)
+![Selenoid](https://github.com/vapolonov/vapolonov/blob/main/vasvap_selenoid_logo.png)
+![Jira](https://github.com/vapolonov/vapolonov/blob/main/vasvap_jira_logo.png)
+![Telegram](https://github.com/vapolonov/vapolonov/blob/main/vasvap_telegram_logo.png)
+
 <!--
-
-![](https://github.com/vapolonov/vapolonov/blob/main/vasvap_java-logo.svg)
-![](https://github.com/vapolonov/vapolonov/blob/main/vasvap_IDEA-logo.svg)
-
-
 **vapolonov/vapolonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

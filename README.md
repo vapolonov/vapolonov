@@ -1,7 +1,7 @@
 ## Hi ✨, I'm Vasiliy Apolonov. Welcome to my GitHub.:shield:
 <br>
 
-:arrow_right: I’m having a 10+ years of experience in information technology industry.
+:arrow_right: I’m having a 15+ years of experience in information technology industry.
 
 :arrow_right: Currently I'm interesting test automation and starting to apply automation in my work.
 

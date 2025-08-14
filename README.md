@@ -1,4 +1,4 @@
-## Hi ✨, I'm Vasiliy Apolonov. Welcome to my GitHub.:shield:
+## Hi ✨, I'm Vasiliy Apolonov. Welcome to my GitHub.
 <br>
 
 :arrow_right: I’m having a 15+ years of experience in information technology industry.
